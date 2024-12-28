@@ -2,8 +2,7 @@
 Create a single-page HTML CV to showcase your career history. (for educational purposes)
 
 ## Project Page URL
-
-[https://github.com/winnandarkhin/Single-Page-CV](https://github.com/winnandarkhin/Single-Page-CV)
+[https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
 
 ## How to Run the Project Locally
 
