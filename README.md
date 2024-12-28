@@ -1,5 +1,5 @@
 # Single-Page-CV
-Create a single-page HTML CV to showcase your career history
+Create a single-page HTML CV to showcase your career history. (for educational purposes)
 
 ## Project Page URL
 
